@@ -1,0 +1,7 @@
+# Nothing to build here — the upstream driver is fetched at install time.
+# Local scratch / editor files:
+*.log
+*~
+.DS_Store
+.idea/
+.vscode/
