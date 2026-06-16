@@ -58,7 +58,7 @@ Have a different ASUS model? See [Using a different layout](#using-a-different-l
 ## Install
 
 ```bash
-git clone https://github.com/<your-user>/asus-x1404va-numberpad-linux.git
+git clone https://github.com/john8blade/asus-x1404va-numberpad-linux.git
 cd asus-x1404va-numberpad-linux
 ./install.sh
 ```
